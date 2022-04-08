@@ -18,8 +18,8 @@ const customTheme = extendTheme({
     },
   },
   fonts: {
-    body: 'Graphik Font',
-    heading: 'Graphik Font',
+    body: 'Arial, sans-serif',
+    heading: 'Arial, sans-serif',
   },
   fontWeights: {
     hairline: 100,
